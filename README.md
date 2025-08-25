@@ -100,3 +100,41 @@ Concatenate R(1–3), F(1–3), M(1–3) → RFM Segment (Champions, At Risk, Ne
 **Review score =** 5 dominates (≈57,328 orders), then 4, then 1, 3, 2.
 
 **→ Service & delivery still matter:** many low scores (1–2) remain and correlate with delays/cancellations.
+
+
+## When customers buy (all customers)
+**Month:** August peaks (12,158 orders), December is lowest (6,309).
+
+**Weekday:** Monday (18,399), then Tuesday (18,237); Saturday lowest (~12,168).
+
+**Hour:** Peak at 10:00 (~11,993), then 09:00, 11:00.
+
+**AM vs PM:** ~91.6% AM, ~8.4% PM.
+
+
+## Where customers buy
+
+**Cities (Top):** São Paulo (15,618 customers), Rio de Janeiro (6,923) dominate.
+
+
+## RFM Distribution (all customers)
+
+**Frequency buckets:** Low ~96.88% (≈93,099), Medium ~3.07% (≈2,948), High ~0.05% (≈49).
+
+**Recency buckets:** Old >90 days dominate (≈87–90k), Medium ≈9.6k, Recent ≈single digits.
+
+**Monetary buckets:** Low ~95% (≈91,603), Medium ≈3,274, High ≈1,219.
+
+
+## Segment Deep Dives (highlights)
+
+**At Risk**
+
+**Revenue:** ~R$10M; ~81k customers; AOV ~R$124.8
+
+Buy mostly Mon–Tue, AM, and 10:00 hour; São Paulo leads.
+
+Top categories: cama_mesa_banho, beleza_saude.
+
+
+
