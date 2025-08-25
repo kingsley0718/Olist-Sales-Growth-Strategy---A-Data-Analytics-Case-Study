@@ -6,4 +6,5 @@ This project analyzes the Olist e-commerce dataset (Brazil) to identify revenue 
 
 ## Business Goal
 **Increase revenue by at least 20%.**
+
 I translate analytical findings into concrete actions (reactivation, cross-sell, city-level targeting, timing-based promos, and review/delivery fixes).
