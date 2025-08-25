@@ -201,7 +201,7 @@ Small & newish: Aug and AM heavy; good for nurturing into Loyalists.
 
 ## Strategy to +20% Revenue (90-Day Plan)
 
-**Win back “At Risk” & “Hibernating” (reactivation engine)**
+### Win back “At Risk” & “Hibernating” (reactivation engine)
 
 **Offer:** category-based bundles (e.g., cama_mesa_banho + utilidades_domesticas), “come back” vouchers (R$ off next order, 7-day expiry).
 
@@ -213,7 +213,7 @@ Small & newish: Aug and AM heavy; good for nurturing into Loyalists.
 
 
 
-**Nurture “Potential Loyalists” → repeat & upsell**
+### Nurture “Potential Loyalists” → repeat & upsell
 
 **Offer:** complementary accessories (informatica_acessorios), loyalty points, free shipping thresholds.
 
@@ -222,7 +222,7 @@ Small & newish: Aug and AM heavy; good for nurturing into Loyalists.
 **Goal:** +15–20% repeat rate in this cohort → ~R$0.4–0.6M lift.
 
 
-**Protect & grow “Big Spenders”**
+### Protect & grow “Big Spenders”
 
 **Offer:** VIP service (priority support), early access, guaranteed delivery windows, premium bundles in moveis_decoracao/cama_mesa_banho.
 
@@ -230,11 +230,21 @@ Small & newish: Aug and AM heavy; good for nurturing into Loyalists.
 
 
 
-**City playbooks**
+### City playbooks
 
 **São Paulo & Rio:** increase bid caps & email cadence during Aug/May; mono-product landing pages for top categories; localized creatives.
 
 **Next 8 cities (top-10):** replicate with 70% of São Paulo’s bid/discount.
 
+
+### Review & delivery fix
+
+**Operational SLAs:** tighten handoff to carriers for AM-heavy orders; prioritize Mon–Tue capacity.
+
+**CSAT:** proactive “delivery ETA” + “rate your order” nudges; auto-coupon on late deliveries to protect ratings.
+
+**Goal:** reduce 1–2 star share by 20%, improving conversion and repeat.
+
+**Combined expected impact:** 20–25% revenue growth across 90 days if executed in parallel.
 
 
