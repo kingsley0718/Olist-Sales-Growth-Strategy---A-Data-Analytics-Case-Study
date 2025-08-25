@@ -237,6 +237,8 @@ Small & newish: Aug and AM heavy; good for nurturing into Loyalists.
 **Next 8 cities (top-10):** replicate with 70% of São Paulo’s bid/discount.
 
 
+
+
 ### Review & delivery fix
 
 **Operational SLAs:** tighten handoff to carriers for AM-heavy orders; prioritize Mon–Tue capacity.
