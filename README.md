@@ -128,7 +128,8 @@ Concatenate R(1–3), F(1–3), M(1–3) → RFM Segment (Champions, At Risk, Ne
 
 ## Segment Deep Dives (highlights)
 
-**At Risk**
+
+### At Risk
 
 
 **Revenue:** ~R$10M; ~81k customers; AOV ~R$124.8
@@ -138,7 +139,8 @@ Buy mostly Mon–Tue, AM, and 10:00 hour; São Paulo leads.
 Top categories: cama_mesa_banho, beleza_saude.
 
 
-**Potential Loyalists**
+
+### Potential Loyalists
 
 
 **Revenue:** ~R$3M; ~3.8k customers
@@ -150,7 +152,8 @@ Skew to medium/high monetary buckets.
 **Top:** relogios_presentes, informatica_acessorios.
 
 
-**Big Spenders**
+
+### Big Spenders
 
 
 Very small base (≈15 customers, 102 orders), high frequency, AM ~90%.
@@ -158,7 +161,8 @@ Very small base (≈15 customers, 102 orders), high frequency, AM ~90%.
 **Top:** cama_mesa_banho, moveis_decoracao.
 
 
-**Need Attention**
+
+## Need Attention
 
 
 ~R$692k revenue, ~3.3k orders; heavy AM & weekday bias (Tue/Thu), 10:00 peak.
@@ -166,7 +170,8 @@ Very small base (≈15 customers, 102 orders), high frequency, AM ~90%.
 Monetary mostly Low (76%), but reachable.
 
 
-**Hibernating**
+
+### Hibernating
 
 
 ~R$792k revenue, 1.9k customers; all low frequency, recency = Medium (31–90).
@@ -174,7 +179,8 @@ Monetary mostly Low (76%), but reachable.
 Monetary mostly Low (79%) → re-activation target.
 
 
-**Promising**
+
+### Promising
 
 
 Small & newish: Aug and AM heavy; good for nurturing into Loyalists.
