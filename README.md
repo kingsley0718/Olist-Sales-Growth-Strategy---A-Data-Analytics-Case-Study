@@ -62,6 +62,7 @@ Monetary: Low/Med/High via 25th/75th percentiles
 
 
 
+
 **RFM Score:** concatenate R(1–3), F(1–3), M(1–3) → RFM Segment (Champions, At Risk, Need Attention, Hibernating, Promising, Potential Loyalist, Big Spenders, About to Sleep, etc.)
 
 **Note:** RFM is implemented as calculated columns on a Customer-level table so segment membership stays stable in visuals and can be sliced.
