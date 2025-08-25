@@ -93,3 +93,10 @@ Concatenate R(1–3), F(1–3), M(1–3) → RFM Segment (Champions, At Risk, Ne
 **esporte_lazer** (~8,641)
 
 “Unknown” category still present (≈1,586 orders) — retained to avoid biasing results.
+
+
+## Reviews
+
+**Review score =** 5 dominates (≈57,328 orders), then 4, then 1, 3, 2.
+
+**→ Service & delivery still matter:** many low scores (1–2) remain and correlate with delays/cancellations.
