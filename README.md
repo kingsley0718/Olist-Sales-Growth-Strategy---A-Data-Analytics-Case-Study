@@ -162,7 +162,7 @@ Very small base (≈15 customers, 102 orders), high frequency, AM ~90%.
 
 
 
-## Need Attention
+### Need Attention
 
 
 ~R$692k revenue, ~3.3k orders; heavy AM & weekday bias (Tue/Thu), 10:00 peak.
@@ -184,6 +184,57 @@ Monetary mostly Low (79%) → re-activation target.
 
 
 Small & newish: Aug and AM heavy; good for nurturing into Loyalists.
+
+
+
+## What This Means (Business Interpretation)
+
+**Massive long-tail:** Most customers buy once. Revenue growth will come from reactivation + second purchase (At Risk, Hibernating, Need Attention), while nurturing small high-value cohorts (Potential Loyalists, Big Spenders) yields disproportionate lift.
+
+**Time matters:** AM (9–11am) and Mon–Tue are prime windows to place promos and triggered campaigns.
+
+**Geo concentration:** São Paulo and Rio deserve budget priority; replicate winning playbooks to next-tier cities.
+
+**Category levers:** cama_mesa_banho and beleza_saude drive demand → bundle/cross-sell and protect delivery quality to reduce low reviews.
+
+
+
+## Strategy to +20% Revenue (90-Day Plan)
+
+**Win back “At Risk” & “Hibernating” (reactivation engine)**
+
+**Offer:** category-based bundles (e.g., cama_mesa_banho + utilidades_domesticas), “come back” vouchers (R$ off next order, 7-day expiry).
+
+**Timing:** Mon–Tue, 9–11am (matches observed peaks).
+
+**Channels:** Email/SMS + WhatsApp flows; cart remarketing.
+
+**Goal:** convert 3–5% of At Risk in 90 days → ~R$1.2–1.6M lift (conservative).
+
+
+
+**Nurture “Potential Loyalists” → repeat & upsell**
+
+**Offer:** complementary accessories (informatica_acessorios), loyalty points, free shipping thresholds.
+
+**Timing:** trigger post-purchase day 7 & day 30; AM.
+
+**Goal:** +15–20% repeat rate in this cohort → ~R$0.4–0.6M lift.
+
+
+**Protect & grow “Big Spenders”**
+
+**Offer:** VIP service (priority support), early access, guaranteed delivery windows, premium bundles in moveis_decoracao/cama_mesa_banho.
+
+**Goal:** +2 purchases per VIP across quarter → small base, high margin lift.
+
+
+
+**City playbooks**
+
+**São Paulo & Rio:** increase bid caps & email cadence during Aug/May; mono-product landing pages for top categories; localized creatives.
+
+**Next 8 cities (top-10):** replicate with 70% of São Paulo’s bid/discount.
 
 
 
