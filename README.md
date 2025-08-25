@@ -73,8 +73,11 @@ Concatenate R(1–3), F(1–3), M(1–3) → RFM Segment (Champions, At Risk, Ne
 **Company-level KPIs**
 
 **Total revenue:** ~R$16M
+
 **Customers:** ~96.1k
+
 **Orders**: ~99.4k
+
 **AOV:** ~R$161.00 
 
 
@@ -83,8 +86,10 @@ Concatenate R(1–3), F(1–3), M(1–3) → RFM Segment (Champions, At Risk, Ne
 
 **Top categories by orders:**
 
-cama_mesa_banho (~11,115 orders)
+**cama_mesa_banho** (~11,115 orders)
 
-beleza_saude (~9,670)
+**beleza_saude** (~9,670)
 
-esporte_lazer (~8,641)
+**esporte_lazer** (~8,641)
+
+“Unknown” category still present (≈1,586 orders) — retained to avoid biasing results.
