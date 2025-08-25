@@ -62,7 +62,29 @@ Monetary: Low/Med/High via 25th/75th percentiles
 
 
 
-### RFM Score:
+## RFM Score:
 Concatenate R(1–3), F(1–3), M(1–3) → RFM Segment (Champions, At Risk, Need Attention, Hibernating, Promising, Potential Loyalist, Big Spenders, About to Sleep, etc.)
 
 **Note:** RFM is implemented as calculated columns on a Customer-level table so segment membership stays stable in visuals and can be sliced.
+
+
+## Key Insights (From my Power BI dashboard)
+
+**Company-level KPIs**
+
+**Total revenue:** ~R$16M
+**Customers:** ~96.1k
+**Orders**: ~99.4k
+**AOV:** ~R$161.00 
+
+
+
+## Product & Category
+
+**Top categories by orders:**
+
+cama_mesa_banho (~11,115 orders)
+
+beleza_saude (~9,670)
+
+esporte_lazer (~8,641)
