@@ -70,7 +70,7 @@ Concatenate R(1–3), F(1–3), M(1–3) → RFM Segment (Champions, At Risk, Ne
 
 ## Key Insights (From my Power BI dashboard)
 
-**Company-level KPIs**
+### Company-level KPIs
 
 **Total revenue:** ~R$16M
 
@@ -84,7 +84,7 @@ Concatenate R(1–3), F(1–3), M(1–3) → RFM Segment (Champions, At Risk, Ne
 
 ## Product & Category
 
-**Top categories by orders:**
+### Top categories by orders:
 
 **cama_mesa_banho** (~11,115 orders)
 
