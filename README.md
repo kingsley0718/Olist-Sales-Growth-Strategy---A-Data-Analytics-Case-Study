@@ -250,3 +250,11 @@ Small & newish: Aug and AM heavy; good for nurturing into Loyalists.
 **Combined expected impact:** 20–25% revenue growth across 90 days if executed in parallel.
 
 
+## Conclusions
+The business is AM-centric, city-concentrated, and long-tail at the customer level.
+
+A reactivation + nurture strategy timed to Mon–Tue, 9–11am and focused on top categories & top cities offers the fastest route to +20% revenue.
+
+Execution discipline (promotions, timing, delivery SLAs, review management) is as important as analytics.
+
+
